@@ -1,0 +1,21 @@
+
+E
+java:S3740W"/Provide the parametrized type for this generic.(¶ôØš
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+L
+java:S1128"6Remove this unused import 'javax.annotation.Resource'.(î¾Ì—
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+r
+java:S3077)"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(‰•îÉýÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(‘¨Ôêúÿÿÿÿ
+L
+java:S2696 "6Make the enclosing method "static" or remove this set.(Ž“—Š
+Q
+java:S2696""6Make the enclosing method "static" or remove this set.(À¤ä‹ÿÿÿÿÿ
+L
+java:S2696$"6Make the enclosing method "static" or remove this set.(„éÿÐ
+Q
+java:S2696&"6Make the enclosing method "static" or remove this set.(àÆ’‘úÿÿÿÿ

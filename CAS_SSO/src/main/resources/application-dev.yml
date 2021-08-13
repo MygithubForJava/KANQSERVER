@@ -1,0 +1,32 @@
+server:
+  port: 9001
+  tomcat:
+    max-http-form-post-size: -1
+spring:
+  application:
+    name: cas_sso
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.1.128:3306/sso?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai&useLegacyDatetimeCode=false
+    username: root
+    password: root
+  redis:
+    host: 192.168.1.128
+    port: 6379
+    password:
+    database: 1
+    jedis:
+      pool:
+        max-idle: 30
+        max-active: 8
+        max-wait: 2000
+        min-idle: 10
+
+
+swagger:
+  enable: true
+
+logging:
+  level:
+    root: error
+    com.kanq: debug
