@@ -60,7 +60,7 @@ public class NC103 {
 
 
     /**
-     * NC17 最长回文子串 获取最长回文子串；回文子串：正反读相同；
+     * NC17 最长回文子串 获取最长回文子串；回文子串：正反读相同new；
      * @param str
      * @param n
      * @return
